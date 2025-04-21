@@ -1,8 +1,10 @@
 # Dr. Sajid Alam 👨‍🔬
 
+
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sajid8222/YOUR_REPO_NAME/main/assets/banner.png" alt="Banner" width="100%"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/sajid8222"><img src="https://img.shields.io/badge/GitHub-@sajid8222-181717?logo=github&logoColor=white" alt="GitHub Badge"/></a>
