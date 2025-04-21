@@ -15,12 +15,12 @@
 
 ## 👋 About Me
 
-I’m **Dr. Sajid Alam**, a Professional Machine Learning Engineer and PhD in Electronic Engineering (Jeju National University) from Pakistan. I specialize in designing AI-driven systems that automate and optimize network and security operations.
+I’m **Dr. Sajid Alam**, a Professional Machine Learning Engineer and PhD in Electronic Engineering (Jeju National University) from Pakistan. I specialize in designing AI-driven systems that automate and optimize network and security operations. I’m currently learning DevOps best practices—CI/CD pipelines, containerization, and infrastructure as code—to ensure my solutions are production-ready. I’m also open to contributing to open source projects and collaborating on innovative AI initiatives.
+
 
 - 🎓 **PhD Electronics Engineering**, Jeju National University (2022‑2025)
 - 🌍 Based in Jeju Island, South Korea
-- 🛠️ Expertise: **CV**, **NLP**, **Deep Learning**, **Image Processing**, **DRL**, **GNNs**, **LLMs**, **SDN/NFV**, **Cybersecurity**
-- 📢 Languages: Urdu (Native), English (C1)
+- 🛠️ Expertise:  **Machine learning**, **Deep Learning**, **DRL**, **GNNs**, **LLMs**, **SDN/NFV**, **Cybersecurity**
 
 ---
 
