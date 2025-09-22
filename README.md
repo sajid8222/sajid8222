@@ -73,12 +73,12 @@ I’m **Dr. Sajid Alam**, a Professional Machine Learning Engineer and PhD in El
 
 | Domain                      | Tools & Frameworks                                  |
 | --------------------------- | ----------------------------------------------------|
-| **ML / DL**                 | TensorFlow, PyTorch, Scikit‑learn                   |
+| **ML / DL**                 | TensorFlow               |
 | **Algorithms**              | LLMs (T5), DRL (DQN, PPO), GNNs                     |
-| **DevOps**                  | Docker, Kubernetes, OpenStack, CI/CD (Jenkins, Git)|
+| **DevOps**                  | Docker, Kubernetes, OpenStack                       |
 | **Networking**              | SDN, NFV, Intent‑Based Networking                   |
-| **Programming**             | Python, C++, MATLAB                                 |
-| **Data & Analytics**        | SQL/NoSQL, Pandas, Matplotlib, Tableau               |
+| **Programming**             | Python                                |
+| **Data & Analytics**        |  Pandas, Matplotlib             |
 
 ---
 
